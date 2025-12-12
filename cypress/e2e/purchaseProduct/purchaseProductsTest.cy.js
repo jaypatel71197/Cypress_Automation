@@ -12,7 +12,7 @@ import ConfirmOrderPage from '../../pages/confirmOrderPage';
 
 
 describe('Purchase Products Test Suite', () => {
-it('Verify product name and price in checkout page', () => {
+it('Verify products name and price in checkout page', () => {
     cy.fixture('loginUser').then((user) => {
         const loginPage = new UserLoginPage();
         const homePage = new HomePage();
