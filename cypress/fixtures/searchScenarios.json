@@ -1,0 +1,4 @@
+[
+  { "searchTerm": "apple", "expected": ["apple", "ipod", "macbook"] },
+  { "searchTerm": "samsung", "expected": ["samsung"] }
+]

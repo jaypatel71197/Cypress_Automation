@@ -1,0 +1,8 @@
+{
+  "email": "TestUserYourStore001@yopmail.com",
+  "password": "Test@123456",
+  "invalidEmail": "invaliduser@yopmail.com",
+  "invalidPassword": "WrongPassword123",
+  "emptyEmail": "",
+  "emptyPassword": ""
+}
